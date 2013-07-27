@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>publishproductlinkstotwitter</name>
+            <displayName><![CDATA[Publish product links to Twitter]]></displayName>
+            <version><![CDATA[1.0]]></version>
+            <description><![CDATA[This module enables your Prestashop store to publish product titles and links for your products to Twitter periodically, automatically via a cron job. The current version selects products at random but a future version may allow you to specify certain rules for how products should be selected. You need to create a Twiiter Application for your prestashop store as you will need the provided consumer key and consumer secret to configure the module.]]></description>
+            <author><![CDATA[Kamba Abudu]]></author>
+            <tab><![CDATA[advertising_marketing]]></tab>
+	<confirmUninstall>Are you sure you want to uninstall?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>
